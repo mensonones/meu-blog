@@ -1,4 +1,4 @@
-# gatsby-starter-strata
+# Meu Blog
 
 **This is a starter for Gatsby.js V2.**
 
